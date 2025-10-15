@@ -104,19 +104,18 @@ pip install -r requirements.txt
 
 4. Install Tesseract OCR
 ```plaintext
-Windows: Download and install from Tesseract OCR GitHub
+Windows:
+Download and install from Tesseract OCR GitHub
 
 Linux (Debian/Ubuntu):
-
 sudo apt install tesseract-ocr
 
-
 Mac (Homebrew):
-
 brew install tesseract
 
 Make sure Tesseract is added to your system PATH.
-```plaintext
+```
+
 5. Run the Application
 ```plaintext
 python app.py
